@@ -16,6 +16,4 @@ forge 'https://forge.puppet.com'
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
 
-mod 'puppetlabs/stdlib', '6.0.0'
-mod 'puppetlabs/inifile', '3.0.0'
 mod 'puppetlabs-puppet_metrics_dashboard', '2.0.1'
