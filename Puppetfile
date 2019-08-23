@@ -18,3 +18,4 @@ forge 'https://forge.puppet.com'
 
 mod 'puppetlabs/stdlib', '6.0.0'
 mod 'puppetlabs/inifile', '3.0.0'
+mod 'puppetlabs-puppet_metrics_dashboard', '2.0.1'
